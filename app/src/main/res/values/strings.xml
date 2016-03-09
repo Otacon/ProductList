@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProductList</string>
+    <string name="unit">unit</string>
+    <string name="ea">ea</string>
+    <string name="retry">Retry</string>
+    <string name="generic_error">Ooops. Something went wrong. Swipe to try again.</string>
+</resources>
